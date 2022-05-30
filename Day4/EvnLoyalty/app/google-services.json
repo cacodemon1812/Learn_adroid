@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "396629979133",
+    "firebase_url": "https://javamaster-test.firebaseio.com",
+    "project_id": "javamaster-test",
+    "storage_bucket": "javamaster-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396629979133:android:8f6c7574607cc96d117394",
+        "android_client_info": {
+          "package_name": "jmaster.io"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396629979133-hk4rkspogf7t9v3trgea9q5j7qave55h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu1__e10lHfwSG-BCIBUybmGlDAz8JZQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396629979133-hk4rkspogf7t9v3trgea9q5j7qave55h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396629979133:android:5b6b2a9ac460ca12117394",
+        "android_client_info": {
+          "package_name": "jmaster.io.evnloyalty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396629979133-hk4rkspogf7t9v3trgea9q5j7qave55h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu1__e10lHfwSG-BCIBUybmGlDAz8JZQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396629979133-hk4rkspogf7t9v3trgea9q5j7qave55h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

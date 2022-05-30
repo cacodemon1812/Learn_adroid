@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Evn Loyalty</string>
+    <string name="login">Đăng nhập</string>
+    <string name="phone">Số điện thoại</string>
+    <string name="password">Mật khẩu</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="login_fail">Đăng nhập thất bại!</string>
+    <string name="agree_term">Bằng việc đăng ký bạn đồng ý với <font color="#0165fe">chính sách và điều khoản</font></string>
+    <string name="register">Đăng ký</string>
+    <string name="back_login">Quay về đăng nhập</string>
+    <string name="name">Họ và Tên</string>
+    <string name="register_success">Đăng ký thành công</string>
+    <string name="register_account">Đăng ký tài khoản mới?</string>
+    <string name="favourite">Yêu thích</string>
+    <string name="setting">Cài đặt</string>
+    <string name="share">Chia sẻ bạn bè</string>
+    <string name="about">Giới thiệu</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="change_password">Đổi mật khẩu</string>
+    <string name="update">Cập nhật</string>
+    <string name="home">Trang chủ</string>
+    <string name="notification">Thông báo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="blog">Tin tức</string>
+    <string name="profile">Hồ sơ</string>
+    <string name="register_fail">Đăng ký thất bại</string>
+</resources>

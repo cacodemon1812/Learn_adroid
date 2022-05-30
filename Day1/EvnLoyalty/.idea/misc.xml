@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/drawable/button_background.xml" value="0.2495" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1855" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.1855" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/drawable/ic_baseline_phone_24.xml" value="0.2495" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1855" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1855" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2495" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/activity_main.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/adapter_blog_item_style_1.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/adapter_blog_item_style_2.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/adapter_notification_item.xml" value="0.33" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/blog_item_style_1.xml" value="0.25" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/blog_item_style_2.xml" value="0.33" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_blog.xml" value="0.5" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_blog_detail.xml" value="0.33" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_blog_style_1.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_category.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_create_category.xml" value="0.1467444120505345" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_edit_profile.xml" value="0.21875" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_home.xml" value="0.2390625" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_home_blog.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_home_menu.xml" value="0.2390625" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_menu.xml" value="0.25" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_menu_profile.xml" value="0.25" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_notification.xml" value="0.33" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_profile.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_profile_edit.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_profile_menu.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_profile_user.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_setting.xml" value="0.33" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/fragment_welcome.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/layout/layout.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/dinhd/Documents/GitHub/AndroidCE/EvnLoyalty/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

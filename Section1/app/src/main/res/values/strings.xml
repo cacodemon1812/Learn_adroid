@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EVN-Loyalty-Day1</string>
+    <string name="username">Tài khoản (Số điện thoại)</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="create_a_new_account">Đăng ký tài khoản?</string>
+    <string name="name">Tên</string>
+    <string name="back_to_login">Quay lại đăng nhập</string>
+    <string name="register_member">Đăng ký thành viên</string>
+    <string name="register">Đăng ký</string>
+    <string name="trang_chu">Trang chủ</string>
+    <string name="danh_muc">Danh mục</string>
+    <string name="thong_bao">Thông báo</string>
+    <string name="ho_so">Hồ sơ</string>
+    <string name="tao_moi_danh_muc">Tạo Mới Danh Mục</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuHome"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/trang_chu"/>
+    <item
+        android:id="@+id/menuDanhMuc"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_category_24"
+        android:title="@string/danh_muc"/>
+    <item
+        android:id="@+id/menuThongBao"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="@string/thong_bao"/>
+
+    <item
+        android:id="@+id/menuHoSo"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/ho_so"/>
+</menu>
